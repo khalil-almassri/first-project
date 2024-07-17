@@ -1,3 +1,4 @@
 # first-project
-##note:
+## note:
 the extension of this file is md "Markdown".
+
